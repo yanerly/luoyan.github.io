@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## HM播放器应用完全由本人（骆燕）自主研发,隐私政策内容如下：
 
-You can use the [editor on GitHub](https://github.com/yanerly/luoyan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanerly/luoyan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 为保证本应用功能正常使用、需要获取您设备上的如下权限：
+	a） 存储访问权限，目的是为了读取、播放您拍摄的视频
+	b） 多设备协同权限，目的是为了与组网内可信设备的数据交换，以便完成多设备互联的相关功能，如拍摄控制等
+2. 本应用不会在后台以任何形式分享或保存您的照片、视频、音频等其他隐私信息。
+3. 本应用不会获取其他任何您的个人信息。
